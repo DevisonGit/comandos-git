@@ -12,3 +12,6 @@ git add <nome_do_arquivo> -> alterações ou adição de arquivos são apontados
 git commit -m "Qualquer mensagem sobre o commit aqui" -> faz a mudança no Head
 git remote add origin <servidor> -> estabelece uma ligação nova entre seu repositorio e o servidor remoto
 
+git checkout -b <nome_da_branch> * -> cria uma nova branch
+git checkout <nome_da_branch> -> vai para a branch especificada
+git 
